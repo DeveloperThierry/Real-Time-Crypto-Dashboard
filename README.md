@@ -4,10 +4,6 @@ This **Real-Time Crypto Dashboard** was built using **React** and integrates cry
 
 ---
 
-## **Demo** ##
-![Preview](CryptoAppDashboard.png)
-![Preview](CryptoAppDashboard2.png)
-
 ### 🛠️ **Impact of the Project** 🛠️
 
 The **React Crypto Dashboard** brings significant improvements in:
@@ -89,6 +85,13 @@ This project was built using **React**, with a strong focus on **performance opt
 Whether you're a **crypto enthusiast**, an **investor**, or a **developer** interested in building data-driven apps, this **Real-Time Crypto Dashboard** is a powerful tool to stay updated with the latest trends. By integrating **React**, **Axios**, and **React Router**, this project showcases the power of modern web development for real-time applications.
 
 **Happy crypto tracking!** 📊🚀
+
+---
+
+
+## **Demo** ##
+![Preview](CryptoAppDashboard.png)
+![Preview](CryptoAppDashboard2.png)
 
 
 
