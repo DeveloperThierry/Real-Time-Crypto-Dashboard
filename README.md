@@ -4,6 +4,10 @@ This **Real-Time Crypto Dashboard** was built using **React** and integrates cry
 
 ---
 
+## **Demo** ##
+![Preview](CryptoAppDashboard.png)
+![Preview](CryptoAppDashboard2.png)
+
 ### 🛠️ **Impact of the Project** 🛠️
 
 The **React Crypto Dashboard** brings significant improvements in:
@@ -86,6 +90,5 @@ Whether you're a **crypto enthusiast**, an **investor**, or a **developer** inte
 
 **Happy crypto tracking!** 📊🚀
 
-![Preview](CryptoAppDashboard.png)
-![Preview](CryptoAppDashboard2.png)
+
 
